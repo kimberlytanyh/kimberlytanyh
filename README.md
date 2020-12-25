@@ -29,7 +29,7 @@ _R_
 and more...
 
 ### Who Am I?  
-* _First semester_ Graduate student in Baruch College
+* Graduate student at Baruch College (_First semester just done_)
 * GPA for Coding Classes: 3.9, cGPA: 3.6
 
 * Degrees: 
