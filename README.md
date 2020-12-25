@@ -3,14 +3,14 @@ Just as a picture says a thousand words, check out my projects and class work to
 
 __Programming Languages learned__: R and Python  
 
-__What Have I Created So Far__:
+### What Have I Created So Far:
 * Games
 * Checkout and Course Search System
 * Practice work for Fundamentals (DataFrame and Series creation, calculators, etc.)
 * Modeling and Analysis
 * Simulations
 
-__Tools and Libraries Learned__ (Legend for Practice Level - Basic (B), Intermediate (I)):  
+### Tools and Libraries Learned (Legend for Practice Level - Basic (B), Intermediate (I)):  
 _Python_
 1. random (I)
 2. numpy (I)
@@ -28,7 +28,7 @@ _R_
 6. rpart and randomForest (I)
 and more...
 
-Who Am I?  
+### Who Am I?  
 * _First semester_ Graduate student in Baruch College
 * GPA for Coding Classes: 3.9, cGPA: 3.6
 
