@@ -17,7 +17,8 @@ _Python_
 3. pandas (I)
 4. matplotlib (I)
 5. scikit-learn (B)
-6. seaborn (B)  
+6. seaborn (B)
+
 _R_
 1. tidyverse (I)
 2. R markdown (I)
