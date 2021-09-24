@@ -25,7 +25,7 @@ _Python_
 10. nltk
 11. mlxtend.frequent_patterns
 
-Machine Learning Techniques and Concepts Learned in Python:
+#### Machine Learning Techniques and Concepts Learned in Python:
 1. Linear Regression
 2. Logistic Regression
 3. Tree-based Models (Classification and Regression) - Decision Tree, Random Forest, XGBoost, etc.
