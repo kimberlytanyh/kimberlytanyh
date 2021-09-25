@@ -4,7 +4,7 @@ Just as a picture says a thousand words, check out my projects and class work to
 __Programming Languages Learned__: R and Python  
 
 ### What Have I Created So Far:
-* Games
+* Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
 * Checkout and Course Search System
 * Practice work for Fundamentals (DataFrame and Series creation, calculators, etc.)
 * Modeling and Analysis
