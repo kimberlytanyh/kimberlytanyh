@@ -66,5 +66,3 @@ _Social Media Strategy and Marketing, Social Listening, Market Research, Basic W
 _“And as you wish that others would do to you, do so to them.”_   
 _There is nothing too difficult to learn, just whether you are willing to learn._  
 _There is nothing useless in this world._  
-
-__Refer to my resume for more granular details.__
