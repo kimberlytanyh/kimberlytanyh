@@ -13,8 +13,8 @@ __Programming Languages Learned__: R and Python
 
 ### Work Experience: Query writing in Boolean language for social listening
 
-### Tools and Libraries Learned: 
-### _Python_
+## Tools and Libraries Learned: 
+## _Python_
 1. random
 2. numpy 
 3. pandas
@@ -44,11 +44,11 @@ __Programming Languages Learned__: R and Python
 6. rpart and randomForest
 and more...
 
-### _Improvement plan_: 
+## _Improvement plan_: 
 - Big Data Technologies
 - Keep practicing SQL, Python, and R
 
-### _Who Am I?_  
+## _Who Am I?_  
 * Graduate student at Baruch College (_First semester just done_)
 * GPA for Coding Classes: 3.9, cGPA: 3.6
 
