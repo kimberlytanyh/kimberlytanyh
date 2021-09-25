@@ -45,7 +45,7 @@ __Programming Languages Learned__: R and Python
 6. rpart and randomForest
 and more...
 
-## _Improvement plan_: 
+## _Growth Plan_: 
 - Big Data Technologies
 - Keep practicing SQL, Python, and R
 
