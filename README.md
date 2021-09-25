@@ -1,7 +1,7 @@
 # Kimberly's Portfolio
 Just as a picture says a thousand words, check out my projects and class work to see what I can do/ have learned.
 
-__Programming Languages learned__: R and Python  
+__Programming Languages Learned__: R and Python  
 
 ### What Have I Created So Far:
 * Games
@@ -11,8 +11,10 @@ __Programming Languages learned__: R and Python
 * Simulations
 * Weather Forecasting Models using XGBoost
 
+### Work Experience: Query writing in Boolean language for social listening
+
 ### Tools and Libraries Learned: 
-_Python_
+# _Python_
 1. random
 2. numpy 
 3. pandas
@@ -30,10 +32,10 @@ _Python_
 2. Logistic Regression
 3. Tree-based Models (Classification and Regression) - Decision Tree, Random Forest, XGBoost, etc.
 4. CLustering
-5. Natural Language Processing (word2vec)
+5. Natural Language Processing (Word2Vec)
 6. PCA and ICA
 
-_R_
+# _R_
 1. tidyverse 
 2. R markdown
 3. ggplot
@@ -41,6 +43,10 @@ _R_
 5. linear models
 6. rpart and randomForest
 and more...
+
+What I am planning to learn: 
+- Big Data Technologies
+- Keep practicing SQL, Python, and R
 
 ### Who Am I?  
 * Graduate student at Baruch College (_First semester just done_)
