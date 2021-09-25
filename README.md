@@ -49,8 +49,8 @@ and more...
 - Keep practicing SQL, Python, and R
 
 ## _Who Am I?_  
-* Graduate student at Baruch College (_First semester just done_)
-* GPA for Coding Classes: 3.9, cGPA: 3.6
+* Graduate student at Baruch College (_Graduate in Spring 2022_)
+* GPA for Coding Classes: 3.9, cGPA: 3.7
 
 * Degrees: 
 _Masters in Business Analytics, Marketing Analytics concentration (_pending_)_
