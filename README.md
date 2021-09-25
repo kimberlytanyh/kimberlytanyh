@@ -10,6 +10,7 @@ __Programming Languages Learned__: R and Python
 * Modeling and Analysis
 * Simulations
 * Weather Forecasting Models using XGBoost
+* Designed Basic Database for PostGreSQL and Access
 
 ### Work Experience: Query writing in Boolean language for social listening
 
