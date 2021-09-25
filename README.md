@@ -13,7 +13,7 @@ __Programming Languages Learned__: R and Python
 
 ### Work Experience: Query writing in Boolean language for social listening
 
-## Tools and Libraries Learned: 
+### Tools and Libraries Learned: 
 ## _Python_
 1. random
 2. numpy 
@@ -35,7 +35,7 @@ __Programming Languages Learned__: R and Python
 5. Natural Language Processing (Word2Vec)
 6. PCA and ICA
 
-### _R_
+## _R_
 1. tidyverse 
 2. R markdown
 3. ggplot
