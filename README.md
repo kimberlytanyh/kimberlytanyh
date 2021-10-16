@@ -1,7 +1,8 @@
 # Kimberly's Portfolio
 Just as a picture says a thousand words, check out my projects and class work to see what I can do/ have learned.
 
-__Programming Languages Learned__: R and Python  
+__Programming Languages Learned__: R and Python
+__Others__: 
 
 ### What Have I Created So Far:
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
@@ -11,6 +12,8 @@ __Programming Languages Learned__: R and Python
 * Simulations
 * Weather Forecasting Models using XGBoost
 * Designed Basic Database for PostGreSQL and Access
+* Creating mini functions for NPL-related analysis
+* and more (check out my repositories)!
 
 ### Work Experience: Query writing in Boolean language for social listening
 
@@ -44,10 +47,6 @@ __Programming Languages Learned__: R and Python
 5. linear models
 6. rpart and randomForest
 and more...
-
-## _Growth Plan_: 
-- Big Data Technologies
-- Keep practicing SQL, Python, and R
 
 ## _Who Am I?_  
 * Graduate student at Baruch College (_Graduate in Spring 2022_)
