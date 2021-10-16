@@ -6,7 +6,7 @@ __Others__:
 
 ### What Have I Created So Far:
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
-* Checkout and [Course Search System](https://github.com/kimberlytanyh/Basic_Course_Lookup_System.git)
+* Supermarket Checkout, [Bowling Score Display](https://github.com/kimberlytanyh/Who_Won_the_Game.git), and [Course Search System](https://github.com/kimberlytanyh/Basic_Course_Lookup_System.git)
 * Practice work for Fundamentals (DataFrame and Series creation, calculators, etc.)
 * Modeling and Analysis
 * Simulations
