@@ -5,7 +5,7 @@ __Programming Languages Learned__: R and Python
 
 ### What Have I Created So Far:
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
-* Checkout and Course Search System
+* Checkout and Course Search System (https://github.com/kimberlytanyh/Basic_Course_Lookup_System.git)
 * Practice work for Fundamentals (DataFrame and Series creation, calculators, etc.)
 * Modeling and Analysis
 * Simulations
