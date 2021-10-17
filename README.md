@@ -8,9 +8,8 @@ __Others__:
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
 * [Supermarket Checkout](https://github.com/kimberlytanyh/Supermarket_Checkout_Program.git), [Bowling Score Display](https://github.com/kimberlytanyh/Who_Won_the_Game.git), and [Course Search System](https://github.com/kimberlytanyh/Basic_Course_Lookup_System.git)
 * Practice work for Fundamentals (DataFrame and Series creation, calculators, etc.)
-* Modeling and Analysis
 * [Simulations](https://github.com/kimberlytanyh/Calculating_Probability_with_Simulations.git)
-* Weather Forecasting Models using XGBoost
+* [Weather Forecasting Models using XGBoost](https://github.com/kimberlytanyh/Weather_Prediction_Project.git)
 * Designed Basic Database for PostGreSQL and Access
 * Creating mini functions for NPL-related analysis
 * and more (check out my repositories)!
