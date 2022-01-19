@@ -12,6 +12,7 @@ __Others__:
 * [Weather Forecasting Models using XGBoost](https://github.com/kimberlytanyh/Weather_Prediction_Project.git)
 * Designed Basic Database for PostGreSQL and Access
 * Creating mini functions for NPL-related analysis
+* [Models for Predicting Disaster-Related Tweets (NLP)](https://github.com/kimberlytanyh/NLP-Project.git
 * and more (check out my repositories)!
 
 ### Work Experience: Query writing in Boolean language for social listening
