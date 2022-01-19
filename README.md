@@ -2,7 +2,7 @@
 Just as a picture says a thousand words, check out my projects and class work to see what I can do/ have learned.
 
 __Programming Languages Learned__: R and Python
-__Others__: 
+__Others__: Tableau and Excel for Data Visualization, SQL
 
 ### What Have I Created So Far:
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
@@ -50,7 +50,7 @@ and more...
 
 ## _Who Am I?_  
 * Graduate student at Baruch College (_Graduate in Spring 2022_)
-* GPA for Coding Classes: 3.9, cGPA: 3.7
+* GPA for Coding Classes: 3.9, cGPA: 3.8
 
 * Degrees: 
 _Masters in Business Analytics, Marketing Analytics concentration (_pending_)_
