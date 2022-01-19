@@ -2,6 +2,7 @@
 Just as a picture says a thousand words, check out my projects and class work to see what I can do/ have learned.
 
 __Programming Languages Learned__: R and Python
+
 __Others__: Tableau and Excel for Data Visualization, SQL
 
 ### What Have I Created So Far:
