@@ -10,11 +10,11 @@ __Others__: Tableau and Excel for Data Visualization, SQL
 * [Supermarket Checkout](https://github.com/kimberlytanyh/Supermarket_Checkout_Program.git), [Bowling Score Display](https://github.com/kimberlytanyh/Who_Won_the_Game.git), and [Course Search System](https://github.com/kimberlytanyh/Basic_Course_Lookup_System.git)
 * Practice work for Fundamentals (DataFrame and Series creation, calculators, etc.)
 * [Simulations](https://github.com/kimberlytanyh/Calculating_Probability_with_Simulations.git)
-* [Weather Forecasting Models using XGBoost](https://github.com/kimberlytanyh/Weather_Prediction_Project.git)
+* [Weather Forecasting Models using XGBoost (Group Project)](https://github.com/kimberlytanyh/Weather_Prediction_Project.git)
 * Designed Basic Database for PostGreSQL and Access
 * Creating mini functions for NPL-related analysis
 * [Models for Predicting Disaster-Related Tweets (NLP)](https://github.com/kimberlytanyh/NLP-Project.git)
-* Tableau Dashboard: Analyzing gender stratification in the comic book industry
+* [Tableau Dashboard: Analyzing gender stratification in the comic book industry (Group Project)]
 * and more (check out my repositories)!
 
 ### Work Experience: Query writing in Boolean language for social listening
