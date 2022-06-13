@@ -14,6 +14,7 @@ __Others__: Tableau and Excel for Data Visualization, SQL
 * Designed Basic Database for PostGreSQL and Access
 * Creating mini functions for NPL-related analysis
 * [Models for Predicting Disaster-Related Tweets (NLP)](https://github.com/kimberlytanyh/NLP-Project.git)
+* Tableau Dashboard: Analyzing gender stratification in the comic book industry
 * and more (check out my repositories)!
 
 ### Work Experience: Query writing in Boolean language for social listening
