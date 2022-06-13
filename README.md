@@ -17,7 +17,7 @@ __Others__: Tableau and Excel for Data Visualization, SQL
 * [Tableau Dashboard: Analyzing gender stratification in the comic book industry (Group Project)]
 * and more (check out my repositories)!
 
-### Work Experience: Query writing in Boolean language for social listening
+### Work Experience: Query writing in Boolean expression for social listening
 
 ### Tools and Libraries Learned: 
 ## _Python_
