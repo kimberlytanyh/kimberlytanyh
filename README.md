@@ -6,7 +6,7 @@ __Programming Languages Learned__: R and Python
 __Others__: Tableau and Excel for Data Visualization, SQL
 
 ### Recent Projects:
-* [Exploring World COVID Data in Microsoft SQL Server using SQL queries] (https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
+* [Exploring World COVID Data in Microsoft SQL Server using SQL queries](https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
 Self-created dashboard to follow soon!
 * [COVID dashboard created by following AlextheAnalyst](https://public.tableau.com/app/profile/kimberly.tan6429/viz/BasicOurWorldinDataCOVIDDashboard06-23-2022/Dashboard1)
 
