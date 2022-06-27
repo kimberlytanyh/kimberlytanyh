@@ -5,7 +5,13 @@ __Programming Languages Learned__: R and Python
 
 __Others__: Tableau and Excel for Data Visualization, SQL
 
-### What Have I Created So Far:
+### Recent Projects:
+* [Exploring World COVID Data in Microsoft SQL Server using SQL queries] (https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
+Self-created dashboard to follow soon!
+* [COVID dashboard created by following AlextheAnalyst](https://public.tableau.com/app/profile/kimberly.tan6429/viz/BasicOurWorldinDataCOVIDDashboard06-23-2022/Dashboard1)
+
+
+### What Have I Created So Far from Courses:
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
 * [Supermarket Checkout](https://github.com/kimberlytanyh/Supermarket_Checkout_Program.git), [Bowling Score Display](https://github.com/kimberlytanyh/Who_Won_the_Game.git), and [Course Search System](https://github.com/kimberlytanyh/Basic_Course_Lookup_System.git)
 * Practice work for Fundamentals (DataFrame and Series creation, calculators, etc.)
