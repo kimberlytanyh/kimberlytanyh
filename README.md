@@ -75,6 +75,7 @@ and more...
 
 ### Other skills:  
 _Social Media Strategy and Marketing, Social Listening, Market Research, Basic WordPress Website Management, Graphic Design, Event Planning, SEO optimization_  
+
 Interesting traits:
 1. Southeast Asian from Singapore and Malaysia
 2. Speaks two non-coding languages: English and Mandarin
