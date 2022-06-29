@@ -6,21 +6,28 @@ __Programming Languages Learned__: R and Python
 __Others__: Tableau and Excel for Data Visualization, SQL
 
 ### Recent Projects:
+SQL
 * [Exploring World COVID Data in Microsoft SQL Server using SQL queries.](https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
-Interactive Tableau dashboard to follow soon!
+Tableau
+* [Visualizing Impact of COVID on Geographical and Income sectors and Progress of Vaccination Efforts (Tableau Story)](https://public.tableau.com/app/profile/kimberly.tan6429/viz/AnOverviewofCOVIDImpactandCurrentVaccinationProgress/Story1)
 * [COVID dashboard created by following AlextheAnalyst](https://public.tableau.com/app/profile/kimberly.tan6429/viz/BasicOurWorldinDataCOVIDDashboard06-23-2022/Dashboard1)
 
 
 ### What Have I Created So Far from Courses:
+Python
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
 * [Supermarket Checkout](https://github.com/kimberlytanyh/Supermarket_Checkout_Program.git), [Bowling Score Display](https://github.com/kimberlytanyh/Who_Won_the_Game.git), and [Course Search System](https://github.com/kimberlytanyh/Basic_Course_Lookup_System.git)
 * Practice work for Fundamentals (DataFrame and Series creation, calculators, etc.)
-* [Simulations](https://github.com/kimberlytanyh/Calculating_Probability_with_Simulations.git)
 * [Weather Forecasting Models using XGBoost (Group Project)](https://github.com/kimberlytanyh/Weather_Prediction_Project.git)
-* Designed Basic Database for PostGreSQL and Access
 * Creating mini functions for NPL-related analysis
 * [Models for Predicting Disaster-Related Tweets (NLP)](https://github.com/kimberlytanyh/NLP-Project.git)
+
+R
+* [Simulations](https://github.com/kimberlytanyh/Calculating_Probability_with_Simulations.git)
+
+Tableau
 * [Tableau Dashboard: Analyzing gender stratification in the comic book industry (Group Project)](https://github.com/kimberlytanyh/Tableau-Dashboard-on-Comic-Industry.git)
+
 * and more (check out my repositories)!
 
 ### Work Experience: Query writing in Boolean expression for social listening
