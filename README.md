@@ -69,10 +69,11 @@ and more...
 * Graduate student at Baruch College (_Graduated in Spring 2022_)
 * GPA for Coding Classes: 3.9
 
-* Degrees: 
-_Masters in Business Analytics, Data Analytics concentration_ (3.82)
-_B.B.A in Marketing Management, General (Summa Cum Laude)_ (3.98)
-* Other skills:  
+### Degrees: 
+* Masters in Business Analytics, Data Analytics concentration (3.8)
+* B.B.A in Marketing Management, General (Summa Cum Laude) (4.0) 
+
+### Other skills:  
 _Social Media Strategy and Marketing, Social Listening, Market Research, Basic WordPress Website Management, Graphic Design, Event Planning, SEO optimization_  
 * Interesting traits:
 1. Southeast Asian from Singapore and Malaysia
