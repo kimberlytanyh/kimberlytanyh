@@ -11,7 +11,8 @@ SQL
 
 Tableau
 * [Visualizing Impact of COVID on Geographical and Income sectors and Progress of Vaccination Efforts (Tableau Story)](https://public.tableau.com/app/profile/kimberly.tan6429/viz/AnOverviewofCOVIDImpactandCurrentVaccinationProgress/Story1) 
-Data used to create above dashboard can be found in this [repository](https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
+
+Data used to create above dashboard can be found in this [repository.](https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
 * [COVID dashboard created by following AlextheAnalyst](https://public.tableau.com/app/profile/kimberly.tan6429/viz/BasicOurWorldinDataCOVIDDashboard06-23-2022/Dashboard1)
 
 
