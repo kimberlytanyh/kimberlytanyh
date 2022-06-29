@@ -1,9 +1,9 @@
 # Kimberly's Portfolio
 Just as a picture says a thousand words, check out my projects and class work to see what I can do/ have learned.
 
-__Programming Languages Learned__: R and Python
+__Programming Languages Learned__: Python and R
 
-__Others__: Tableau and Excel for Data Visualization, SQL
+__Others__: Tableau, Excel, and SQL
 
 ### Recent Projects:
 SQL
