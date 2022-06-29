@@ -66,12 +66,12 @@ Tableau
 and more...
 
 ## _Who Am I?_  
-* Graduate student at Baruch College (_Graduated in Spring 2022_)
+* Graduate student at Baruch College (Graduated in Spring 2022)
 * GPA for Coding Classes: 3.9
 
 ### Degrees: 
 * Masters in Business Analytics, Data Analytics concentration (3.8)
-* B.B.A in Marketing Management, General (Summa Cum Laude) (4.0) 
+* B.B.A in Marketing Management, General (4.0) 
 
 ### Other skills:  
 _Social Media Strategy and Marketing, Social Listening, Market Research, Basic WordPress Website Management, Graphic Design, Event Planning, SEO optimization_  
