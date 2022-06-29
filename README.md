@@ -8,6 +8,7 @@ __Others__: Tableau and Excel for Data Visualization, SQL
 ### Recent Projects:
 SQL
 * [Exploring World COVID Data in Microsoft SQL Server using SQL queries.](https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
+
 Tableau
 * [Visualizing Impact of COVID on Geographical and Income sectors and Progress of Vaccination Efforts (Tableau Story)](https://public.tableau.com/app/profile/kimberly.tan6429/viz/AnOverviewofCOVIDImpactandCurrentVaccinationProgress/Story1)
 * [COVID dashboard created by following AlextheAnalyst](https://public.tableau.com/app/profile/kimberly.tan6429/viz/BasicOurWorldinDataCOVIDDashboard06-23-2022/Dashboard1)
@@ -24,6 +25,7 @@ Python
 
 R
 * [Simulations](https://github.com/kimberlytanyh/Calculating_Probability_with_Simulations.git)
+* Linear Regression Modeling
 
 Tableau
 * [Tableau Dashboard: Analyzing gender stratification in the comic book industry (Group Project)](https://github.com/kimberlytanyh/Tableau-Dashboard-on-Comic-Industry.git)
