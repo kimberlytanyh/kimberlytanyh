@@ -19,7 +19,7 @@ Tableau - [Click to view dashboards I have created for my projects in my Tableau
 ### What Have I Created So Far from Courses:
 
 Tableau
-* Tableau Dashboard: Analyzing gender stratification in the comic book industry (Group Project)([View here](https://kimberlytanyh.wixsite.com/portfolio/tableau) | [Download for interactivity here](https://github.com/kimberlytanyh/Tableau-Dashboard-on-Comic-Industry.git))
+* Tableau Dashboard: Analyzing gender stratification in the comic book industry (Group Project)( [View here](https://kimberlytanyh.wixsite.com/portfolio/tableau) | [Download for interactivity here](https://github.com/kimberlytanyh/Tableau-Dashboard-on-Comic-Industry.git)] )
 
 Python
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
