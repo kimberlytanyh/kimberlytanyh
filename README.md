@@ -10,6 +10,7 @@ SQL
 * [Exploring World COVID Data in Microsoft SQL Server using SQL queries.](https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
 
 Tableau
+
 [Click to view dashboards I have created for my projects in my Tableau Public profile!](https://public.tableau.com/app/profile/kimberly.tan6429)
 
 
