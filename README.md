@@ -17,6 +17,10 @@ Tableau - [Click to view dashboards I have created for my projects in my Tableau
 
 
 ### What Have I Created So Far from Courses:
+
+Tableau
+* Tableau Dashboard: Analyzing gender stratification in the comic book industry (Group Project)([View here](https://kimberlytanyh.wixsite.com/portfolio/tableau) | [Download for interactivity here](https://github.com/kimberlytanyh/Tableau-Dashboard-on-Comic-Industry.git))
+
 Python
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
 * [Supermarket Checkout](https://github.com/kimberlytanyh/Supermarket_Checkout_Program.git), [Bowling Score Display](https://github.com/kimberlytanyh/Who_Won_the_Game.git), and [Course Search System](https://github.com/kimberlytanyh/Basic_Course_Lookup_System.git)
@@ -28,9 +32,6 @@ Python
 R
 * [Simulations](https://github.com/kimberlytanyh/Calculating_Probability_with_Simulations.git)
 * Linear Regression Modeling
-
-Tableau
-* [Tableau Dashboard: Analyzing gender stratification in the comic book industry (Group Project)](https://github.com/kimberlytanyh/Tableau-Dashboard-on-Comic-Industry.git)
 
 * and more (check out my repositories)!
 
