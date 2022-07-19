@@ -15,6 +15,10 @@ Tableau - [Click to view dashboards I have created for my projects in my Tableau
 * [COVID dashboard created by following AlextheAnalyst](https://public.tableau.com/app/profile/kimberly.tan6429/viz/BasicOurWorldinDataCOVIDDashboard06-23-2022/Dashboard1)
 * [Dashboard Report on General Electric's Operation and Manufacturing Accuracy for Aviation Industry](https://public.tableau.com/app/profile/kimberly.tan6429/viz/GEManufacturingforAviationIndustryDashboard/Story1)
 
+Python 
+
+* Document Content Similarity Comparison Program [Try out the program in Google Colab here](https://colab.research.google.com/drive/1aG5oLJ08buNVduYFCupAFBsiN5TrSaxm?usp=sharing)
+
 
 ### What Have I Created So Far from Courses:
 
