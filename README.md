@@ -17,7 +17,7 @@ Tableau - [Click to view dashboards I have created for my projects in my Tableau
 
 Python 
 
-* Document Content Similarity Comparison Program [Try out the program in Google Colab here](https://colab.research.google.com/drive/1aG5oLJ08buNVduYFCupAFBsiN5TrSaxm?usp=sharing)
+* Document Content Similarity Comparison Program ([Try out the program in Google Colab here](https://colab.research.google.com/drive/1aG5oLJ08buNVduYFCupAFBsiN5TrSaxm?usp=sharing))
 
 
 ### What Have I Created So Far from Courses:
