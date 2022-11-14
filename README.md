@@ -1,9 +1,10 @@
-# Kimberly's Portfolio
+# Kimberly's Portfolio 
 Just as a picture says a thousand words, check out my projects and class work to see what I can do/ have learned.
 
+## About Me
+* Recently graduated from Baruch College with MS degree in Business Analytics
 __Programming Languages Learned__: Python and R
-
-__Others__: Tableau, Excel, and SQL
+__Other technical skills__: Tableau, Excel, and SQL (data exploration in SQL clients and querying from Amazon Redshift)
 
 ## Recent Projects:
 SQL
