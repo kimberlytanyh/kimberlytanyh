@@ -9,7 +9,7 @@ __Programming Languages Learned__: Python and R
 
 __Other technical skills__: Tableau, Excel, and SQL (data exploration in SQL clients and querying from Amazon Redshift)
 
-### Recent Projects:
+### <u>Recent Projects<u>:
 SQL
 * [Exploring World COVID Data in Microsoft SQL Server using SQL queries.](https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
 
