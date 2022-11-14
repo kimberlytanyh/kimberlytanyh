@@ -9,7 +9,7 @@ __Programming Languages Learned__: Python and R
 
 __Other technical skills__: Tableau, Excel, and SQL (data exploration in SQL clients and querying from Amazon Redshift)
 
-## Recent Projects:
+### Recent Projects:
 SQL
 * [Exploring World COVID Data in Microsoft SQL Server using SQL queries.](https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
 
@@ -24,7 +24,7 @@ Python
 * Document Content Similarity Comparison Program ([Try out the program in Google Colab here](https://colab.research.google.com/drive/1aG5oLJ08buNVduYFCupAFBsiN5TrSaxm?usp=sharing))
 
 
-## What Have I Created So Far from Courses:
+### What Have I Created So Far from Courses:
 
 Tableau
 * Tableau Dashboard: Analyzing gender stratification in the comic book industry (Group Project) ([Click here to view](https://kimberlytanyh.wixsite.com/portfolio/tableau) | [Click here to download](https://github.com/kimberlytanyh/Tableau-Dashboard-on-Comic-Industry.git))
@@ -43,8 +43,8 @@ R
 
 * and more (check out my repositories)!
 
-## Tools and Libraries Learned: 
-### Python
+### Tools and Libraries Learned: 
+#### Python
 1. random
 2. numpy 
 3. pandas
@@ -57,7 +57,7 @@ R
 10. nltk
 11. mlxtend.frequent_patterns
 
-#### Machine Learning Techniques and Concepts Learned in Python:
+##### Machine Learning Techniques and Concepts Learned in Python:
 1. Linear Regression
 2. Logistic Regression
 3. Tree-based Models (Classification and Regression) - Decision Tree, Random Forest, XGBoost, etc.
@@ -65,7 +65,7 @@ R
 5. Natural Language Processing (Word2Vec)
 6. PCA and ICA
 
-### R
+#### R
 1. tidyverse 
 2. R markdown
 3. ggplot
