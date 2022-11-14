@@ -3,12 +3,11 @@ Just as a picture says a thousand words, check out my projects and class work to
 
 ## About Me
 * Recently graduated from Baruch College with MS degree in Business Analytics
+* Currently volunteering at Code for America for Project Re-imagine 911 as Data Analyst while seeking full-time role
 
 __Programming Languages Learned__: Python and R
 
 __Other technical skills__: Tableau, Excel, and SQL (data exploration in SQL clients and querying from Amazon Redshift)
-
-* Currently volunteering at Code for America for Project Re-imagine 911 as Data Analyst while seeking full-time role
 
 ## Recent Projects:
 SQL
