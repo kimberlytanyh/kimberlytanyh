@@ -3,7 +3,7 @@ Just as a picture says a thousand words, check out my projects and class work to
 
 ## About Me
 * Recently graduated from Baruch College with MS degree in Business Analytics
-* Currently volunteering full-time at Code for America for Project Re-imagine 911 as Data Analyst while seeking full-time entry-level role
+* Currently volunteering full-time at Code for America for Project Re-imagine 911 as Data Analyst
 
 __Programming Languages Learned__: Python and R
 
