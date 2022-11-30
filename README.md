@@ -30,12 +30,12 @@ Tableau
 * Tableau Dashboard: Analyzing gender stratification and cultural influences on the comic book industry (Group Project) ([Click here to view](https://kimberlytanyh.wixsite.com/portfolio/tableau) | [Click here to download](https://github.com/kimberlytanyh/Tableau-Dashboard-on-Comic-Industry.git))
 
 Python
+* [Weather Forecasting Models using XGBoost (Group Project)](https://github.com/kimberlytanyh/Weather_Prediction_Project.git)
+* [Models for Predicting Disaster-Related Tweets (NLP)](https://github.com/kimberlytanyh/NLP-Project.git)
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
 * [Supermarket Checkout](https://github.com/kimberlytanyh/Supermarket_Checkout_Program.git), [Bowling Score Display](https://github.com/kimberlytanyh/Who_Won_the_Game.git), and [Course Search System](https://github.com/kimberlytanyh/Basic_Course_Lookup_System.git)
 * Practice work for Fundamentals (DataFrame and Series creation, calculators, etc.)
-* [Weather Forecasting Models using XGBoost (Group Project)](https://github.com/kimberlytanyh/Weather_Prediction_Project.git)
 * Creating mini functions for NPL-related analysis
-* [Models for Predicting Disaster-Related Tweets (NLP)](https://github.com/kimberlytanyh/NLP-Project.git)
 
 R
 * [Simulations](https://github.com/kimberlytanyh/Calculating_Probability_with_Simulations.git)
