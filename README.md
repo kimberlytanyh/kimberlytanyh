@@ -24,12 +24,12 @@ Python
 * Document Content Similarity Comparison Program ([Try out the program in Google Colab here](https://colab.research.google.com/drive/1aG5oLJ08buNVduYFCupAFBsiN5TrSaxm?usp=sharing))
 
 
-### What Have I Created So Far from Courses:
+### Academic Work and Projects:
 
-Tableau
+Tableau (Data Exploration, Analysis, Visualization, and Storytelling)
 * Tableau Dashboard: Analyzing gender stratification and cultural influences on the comic book industry (Group Project) ([Click here to view](https://kimberlytanyh.wixsite.com/portfolio/tableau) | [Click here to download](https://github.com/kimberlytanyh/Tableau-Dashboard-on-Comic-Industry.git))
 
-Python
+Python (Data Analysis, Machine Learning, and Writing Simple Programs)
 * [Weather Forecasting Models using XGBoost (Group Project)](https://github.com/kimberlytanyh/Weather_Prediction_Project.git)
 * [Models for Predicting Disaster-Related Tweets (NLP)](https://github.com/kimberlytanyh/NLP-Project.git)
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
@@ -37,7 +37,7 @@ Python
 * Practice work for Fundamentals (DataFrame and Series creation, calculators, etc.)
 * Creating mini functions for NPL-related analysis
 
-R
+R (Writing Simple Programs and Machine Learning)
 * [Simulations](https://github.com/kimberlytanyh/Calculating_Probability_with_Simulations.git)
 * Linear Regression Modeling
 
