@@ -27,7 +27,7 @@ Python
 ### What Have I Created So Far from Courses:
 
 Tableau
-* Tableau Dashboard: Analyzing gender stratification in the comic book industry (Group Project) ([Click here to view](https://kimberlytanyh.wixsite.com/portfolio/tableau) | [Click here to download](https://github.com/kimberlytanyh/Tableau-Dashboard-on-Comic-Industry.git))
+* Tableau Dashboard: Analyzing gender stratification and cultural influences on the comic book industry (Group Project) ([Click here to view](https://kimberlytanyh.wixsite.com/portfolio/tableau) | [Click here to download](https://github.com/kimberlytanyh/Tableau-Dashboard-on-Comic-Industry.git))
 
 Python
 * Games: [Hangman Game](https://github.com/kimberlytanyh/Hangman_Game.git)
