@@ -15,7 +15,7 @@ SQL
 
 Tableau - [Click to view dashboards I have created for my projects in my Tableau Public profile!](https://public.tableau.com/app/profile/kimberly.tan6429)
 
-* [Visualizing Impact of COVID on Geographical and Income sectors and Progress of Vaccination Efforts](https://public.tableau.com/app/profile/kimberly.tan6429/viz/AnOverviewofCOVIDImpactandCurrentVaccinationProgress/Story1). Find data used [here.](https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
+* [Visualizing Impact of COVID on Geographical and Income sectors and Progress of Vaccination Efforts](https://public.tableau.com/views/COVIDDashboardAdvanced/Story1?:language=en-US&:display_count=n&:origin=viz_share_link). Find data used [here.](https://github.com/kimberlytanyh/SQL_Exploring_COVIDdata.git)
 * [COVID dashboard created by following AlextheAnalyst](https://public.tableau.com/app/profile/kimberly.tan6429/viz/BasicOurWorldinDataCOVIDDashboard06-23-2022/Dashboard1)
 * [Dashboard Report on General Electric's Operation and Manufacturing Accuracy for Aviation Industry](https://public.tableau.com/app/profile/kimberly.tan6429/viz/GEManufacturingforAviationIndustryDashboard/Story1)
 
