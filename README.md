@@ -3,11 +3,16 @@ Just as a picture says a thousand words, check out my projects and class work to
 
 ## About Me
 * Recently graduated from Baruch College with MS degree in Business Analytics
-* Currently volunteering full-time at Code for America for Project Re-imagine 911 as Data Analyst
+* Organizations I have worked at as a Research and Planning Intern or volunteer Data Analyst:
+  * Code for America
+  * Shelter Animals Count
+  * Hack for LA (current)
+  * Seattle Promise
+  * Hawaii Zoning Atlas (current)
 
-__Programming Languages Learned__: Python and R
+__Programming Languages Learned__: Python, SQL, and R
 
-__Other technical skills__: Tableau, Excel, and SQL (data exploration in SQL clients and querying from Amazon Redshift)
+__Other technical skills__: Tableau, Excel, Looker, Google Analytics
 
 ### Recent Projects:
 SQL
